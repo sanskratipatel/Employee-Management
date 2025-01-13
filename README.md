@@ -9,8 +9,8 @@ Role and Department Management: Assign roles and departments to employees.
 Salary Management: Track and manage employee salaries.
 Responsive UI: User-friendly interface developed using React and Bootstrap.
 Technologies Used
-Backend: Java Spring Boot, Spring Security, Spring Data JPA
-Frontend: React, HTML5, CSS3, Bootstrap
+Backend: Python, Django, RestAPI
+Frontend: HTML5, CSS3, Bootstrap
 Database: MySQL
 API: RESTful API integration for communication between frontend and backend.
 Setup Instructions
