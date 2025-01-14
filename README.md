@@ -9,8 +9,8 @@ Role and Department Management: Assign roles and departments to employees.
 Salary Management: Track and manage employee salaries.
 Responsive UI: User-friendly interface developed using React and Bootstrap.
 Technologies Used
-Backend: Python, Django, RestAPI
-Frontend: HTML5, CSS3, Bootstrap
+Backend: Java, Spring Boot, RestAPI
+Frontend: HTML5, CSS3, React,Bootstrap, JavaAcript
 Database: MySQL
 API: RESTful API integration for communication between frontend and backend.
 Setup Instructions
@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone <repository_url>
+git clone <>
 cd employeemanagementsystem
 Set up MySQL database:
 
