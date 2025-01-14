@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone <>
+git clone <https://github.com/sanskratipatel/Employee-Management.git>
 cd employeemanagementsystem
 Set up MySQL database:
 
