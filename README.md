@@ -53,7 +53,6 @@ sql
 Copy code
 npm start
 Access Application:
-jjj
 Open your browser and visit http://localhost:3000 to use the Employee Management System.
 Screenshots
 
