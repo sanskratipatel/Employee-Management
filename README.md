@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Employee Management System is a web application developed using Java Spring Boot for the backend, React for the frontend, HTML5, CSS3 for styling, and MySQL for data storage. It provides functionalities to manage employee records, roles and salaries within an organization.
+The Employee Management System is a web application developed using Java, Spring Boot for the backend, React for the frontend, HTML5, CSS3 for styling, and MySQL for data storage. It provides functionalities to manage employee records, roles and salaries within an organization.
 
 ## Features
 User Authentication: Secure login and registration for administrators.
@@ -12,7 +12,7 @@ Salary Management: Track and manage employee salaries.
 Responsive UI: User-friendly interface developed using React and Bootstrap.
 Technologies Used
 Backend: Java, Spring Boot, RestAPI
-Frontend: HTML5, CSS3, React,Bootstrap, JavaAcript
+Frontend: HTML5, CSS3, React,Bootstrap, Javascript
 Database: MySQL
 API: RESTful API integration for communication between frontend and backend.
 Setup Instructions
