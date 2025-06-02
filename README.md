@@ -62,5 +62,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 Contact
 Developer: Sanskrati Patel
 Email: patelsanskrati05@gmail.com
-LinkedIn: Sanskrati Patel
 GitHub: github.com/sanskratipatel
